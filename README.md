@@ -11,5 +11,5 @@ Linguagens que utilizo
 - Python
 - Java Script  
 
-- ✉️ **Email**: [emanuelfontes34@gmail.com](mailto:emanuelfontes34@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/emanuel-luiz-fontes-5750042b9](https://www.linkedin.com/in/emanuel-luiz-fontes-5750042b9)
+✉️ **Email**: [emanuelfontes34@gmail.com](mailto:emanuelfontes34@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/emanuel-luiz-fontes-5750042b9](https://www.linkedin.com/in/emanuel-luiz-fontes-5750042b9)
